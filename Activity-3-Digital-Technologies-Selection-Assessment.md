@@ -14,10 +14,43 @@ This document evaluates the suitability of three advanced digital technologiesâ€
 
 ---
 
+### Scoring Summary
+
+#### Artificial Intelligence (AI)
+- **Strategic Alignment (9/10):** AI aligns strongly with operational goals, such as optimizing efficiency, improving safety, and meeting environmental compliance.
+- **Urgency of Need (8/10):** High but not critical; immediate benefits exist, but some applications can be deferred.
+- **Execution Capability (7/10):** Moderate due to the need for skilled personnel and robust infrastructure.
+- **Performance Impact (9/10):** High impact on productivity and cost reduction.
+- **Implementation Timeline (7/10):** Requires significant time for training and deployment.
+- **Integration (8/10):** AI integrates well with current systems but demands investment in data readiness.
+- **Future Potential (9/10):** AI is scalable and adaptable, ensuring long-term relevance.
+- **Why Points Were Deducted:** Challenges in execution capability and implementation timeline led to slight reductions.
+
+#### Big Data & Analytics
+- **Strategic Alignment (9/10):** Critical for decision-making and risk management.
+- **Urgency of Need (8/10):** High due to the immediate availability of data and potential insights.
+- **Execution Capability (8/10):** Mature ecosystem and tools enable easier implementation.
+- **Performance Impact (9/10):** High impact on forecasting and optimization.
+- **Implementation Timeline (7/10):** Relatively short timeline but dependent on data preparation.
+- **Integration (8/10):** Seamless with existing IT systems, provided data governance is strong.
+- **Future Potential (9/10):** The foundation for other technologies like AI and Digital Twinning.
+- **Why Points Were Deducted:** Data quality and governance challenges reduce execution ease.
+
+#### Digital Twinning
+- **Strategic Alignment (9/10):** Valuable for operational modeling and optimization.
+- **Urgency of Need (7/10):** Less immediate but essential for long-term planning.
+- **Execution Capability (6/10):** Complex implementation requiring significant resources.
+- **Performance Impact (8/10):** Improves efficiency and predictive capabilities.
+- **Implementation Timeline (7/10):** Moderate timeline due to high integration needs.
+- **Integration (9/10):** High compatibility with IoT and sensor networks.
+- **Future Potential (10/10):** Provides a robust framework for future optimization and simulation.
+- **Why Points Were Deducted:** Execution complexity and moderate urgency reduced scores.
+
+---
+
 ### Detailed Explanation
 
 #### Artificial Intelligence (AI)
-
 **Overview:**
 Artificial Intelligence is a transformative technology capable of revolutionizing mining operations by introducing predictive analytics, machine learning, and automation. In the iron ore mining industry, AI can be applied to optimize critical processes such as predictive maintenance, real-time ore grade assessment, and operational decision-making.
 
@@ -31,7 +64,6 @@ AIâ€™s integration with existing technologies, such as sensor systems and automa
 While promising, AI requires significant upfront investment in data infrastructure and expertise, making execution capability a moderate concern for many mining companies.
 
 #### Big Data & Analytics
-
 **Overview:**
 The mining sector generates massive amounts of data from various sources, including sensors, geospatial systems, and operational logs. Big Data & Analytics provide the tools to harness this data for actionable insights into risk management, performance optimization, and strategic forecasting.
 
@@ -45,7 +77,6 @@ The ecosystem for Big Data & Analytics is mature, with numerous proven tools and
 The primary challenge lies in data quality and consistency. Mining companies must invest in comprehensive data governance strategies to ensure reliable outputs.
 
 #### Digital Twinning
-
 **Overview:**
 Digital Twinning involves creating a real-time digital replica of physical assets or processes. This technology allows companies to simulate, analyze, and optimize mining operations with unprecedented accuracy.
 
